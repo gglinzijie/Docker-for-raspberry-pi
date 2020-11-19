@@ -1,0 +1,5 @@
+curl https://raw.githubusercontent.com/matterport/Mask_RCNN/master/mrcnn/model.py --output model.py
+curl https://raw.githubusercontent.com/matterport/Mask_RCNN/master/mrcnn/config.py --output config.py
+curl https://raw.githubusercontent.com/matterport/Mask_RCNN/master/mrcnn/utils.py --output utils.py
+curl https://raw.githubusercontent.com/matterport/Mask_RCNN/master/mrcnn/visualize.py --output visualize.py
+curl https://raw.githubusercontent.com/matterport/Mask_RCNN/master/mrcnn/parallel_model.py --output parallel_model.py
